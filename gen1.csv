@@ -1,0 +1,152 @@
+Nummer,Deutsch,Englisch,Französisch,Japanisch Katakana,Japanisch Transkription,Koreanisch Hangeul,Koreanisch Transkription,Typ,Kategorie
+1,Bisasam,Bulbasaur,Bulbizarre,フシギダネ,Fushigidane,이상해씨,Isanghaessi,Pflanze / Gift,Samen
+2,Bisaknosp,Ivysaur,Herbizarre,フシギソウ,Fushigisou,이상해풀,Isanghaepul,Pflanze / Gift,Samen
+3,Bisaflor,Venusaur,Florizarre,フシギバナ,Fushigibana,이상해꽃,Isanghaekkot,Pflanze / Gift,Samen
+4,Glumanda,Charmander,Salameche,ヒトカゲ,Hitokage,파이리,Pairi,Feuer,Echse
+5,Glutexo,Charmeleon,Reptincel,リザード,Lizardo,리자드,Rijadeu,Feuer,Echse
+6,Glurak,Charizard,Dracaufeu,リザードン,Lizardon,리자몽,Rijamong,Feuer / Flug[Anm. 1],Drache
+7,Schiggy,Squirtle,Carapuce,ゼニガメ,Zenigame,꼬부기,Kkobugi,Wasser,Minikröte
+8,Schillok,Wartortle,Carabaffe,カメール,Kameil,어니부기,Eonibugi,Wasser,Kröte
+9,Turtok,Blastoise,Tortank,カメックス,Kamex,거북왕,Geobukwang,Wasser,Panzertier
+10,Raupy,Caterpie,Chenipan,キャタピー,Caterpie,캐터피,Kaeteopi,Käfer,Raupe
+11,Safcon,Metapod,Chrysacier,トランセル,Transel,단데기,Dandegi,Käfer,Kokon
+12,Smettbo,Butterfree,Papilusion,バタフリー,Butterfree,버터플,Beoteopeul,Käfer / Flug,Falter
+13,Hornliu,Weedle,Aspicot,ビードル,Beedle,뿔충이,Ppulchungi,Käfer / Gift,Raupe
+14,Kokuna,Kakuna,Coconfort,コクーン,Cocoon,딱충이,Ttakchungi,Käfer / Gift,Kokon
+15,Bibor,Beedrill,Dardagnan,スピアー,Spear,독침붕,Dokchimbung,Käfer / Gift,Giftbiene
+16,Taubsi,Pidgey,Roucool,ポッポ,Poppo,구구,Gugu,Normal / Flug,Kleinvogel
+17,Tauboga,Pidgeotto,Roucoups,ピジョン,Pigeon,피죤,Pijyon,Normal / Flug,Vogel
+18,Tauboss,Pidgeot,Roucarnage,ピジョット,Pigeot,피죤투,Pijyontu,Normal / Flug,Vogel
+19,Rattfratz,Rattata,Rattata,コラッタ,Koratta,꼬렛,Kkoret,Normal[Anm. 2],Maus
+20,Rattikarl,Raticate,Rattatac,ラッタ,Ratta,레트라,Reteura,Normal[Anm. 3],Maus
+21,Habitak,Spearow,Piafabec,オニスズメ,Onisuzume,깨비참,Kkaebicham,Normal / Flug,Kleinvogel
+22,Ibitak,Fearow,Rapasdepic,オニドリル,Onidrill,깨비드릴조,Kkaebideuriljo,Normal / Flug,Pickvogel
+23,Rettan,Ekans,Abo,アーボ,Arbo,아보,Abo,Gift,Schlange
+24,Arbok,Arbok,Arbok,アーボック,Arbok,아보크,Abokeu,Gift,Kobra
+25,Pikachu,Pikachu,Pikachu,ピカチュウ,Pikachu,피카츄,Pikachyu,Elektro,Maus
+26,Raichu,Raichu,Raichu,ライチュウ,Raichu,라이츄,Raichyu,Elektro[Anm. 4],Maus
+27,Sandan,Sandshrew,Sabelette,サンド,Sand,모래두지,Moraeduji,Boden[Anm. 5],Maus
+28,Sandamer,Sandslash,Sablaireau,サンドパン,Sandpan,고지,Goji,Boden[Anm. 6],Maus
+29,Nidoran♀,Nidoran♀,Nidoran♀,ニドラン♀,Nidoran♀,니드런♀,Nideureon♀,Gift,Giftdorn
+30,Nidorina,Nidorina,Nidorina,ニドリーナ,Nidorina,니드리나,Nideurina,Gift,Giftdorn
+31,Nidoqueen,Nidoqueen,Nidoqueen,ニドクイン,Nidoqueen,니드퀸,Nideukwin,Gift / Boden,Bohrer
+32,Nidoran♂,Nidoran♂,Nidoran♂,ニドラン♂,Nidoran♂,니드런♂,Nideureon♂,Gift,Giftdorn
+33,Nidorino,Nidorino,Nidorino,ニドリーノ,Nidorino,니드리노,Nideurino,Gift,Giftdorn
+34,Nidoking,Nidoking,Nidoking,ニドキング,Nidoking,니드킹,Nideuking,Gift / Boden,Bohrer
+35,Piepi,Clefairy,Melofee,ピッピ,Pippi,삐삐,Ppippi,Fee[Anm. 7],Fee
+36,Pixi,Clefable,Melodelfe,ピクシー,Pixy,픽시,Piksi,Fee[Anm. 8],Fee
+37,Vulpix,Vulpix,Goupix,ロコン,Rokon,식스테일,Sikseuteil,Feuer[Anm. 9],Fuchs
+38,Vulnona,Ninetales,Feunard,キュウコン,Kyukon,나인테일,Nainteil,Feuer[Anm. 10],Fuchs
+39,Pummeluff,Jigglypuff,Rondoudou,プリン,Purin,푸린,Purin,Normal / Fee[Anm. 11],Ballon
+40,Knuddeluff,Wigglytuff,Grodoudou,プクリン,Pukurin,푸크린,Pukeurin,Normal / Fee[Anm. 12],Ballon
+41,Zubat,Zubat,Nosferapti,ズバット,Zubat,주뱃,Jubaet,Gift / Flug,Fledermaus
+42,Golbat,Golbat,Nosferalto,ゴルバット,Golbat,골뱃,Golbaet,Gift / Flug,Fledermaus
+43,Myrapla,Oddish,Mystherbe,ナゾノクサ,Nazonokusa,뚜벅쵸,Ttubeokchyo,Pflanze / Gift,Unkraut
+44,Duflor,Gloom,Ortide,クサイハナ,Kusaihana,냄새꼬,Naemsaekko,Pflanze / Gift,Unkraut
+45,Giflor,Vileplume,Rafflesia,ラフレシア,Ruffresia,라플레시아,Rapeullesia,Pflanze / Gift,Blume
+46,Paras,Paras,Paras,パラス,Paras,파라스,Paraseu,Käfer / Pflanze,Pilz
+47,Parasek,Parasect,Parasect,パラセクト,Parasect,파라섹트,Parasekteu,Käfer / Pflanze,Pilz
+48,Bluzuk,Venonat,Mimitoss,コンパン,Kongpang,콘팡,Konpang,Käfer / Gift,Insekt
+49,Omot,Venomoth,Aeromite,モルフォン,Morphon,도나리,Donari,Käfer / Gift,Giftmotte
+50,Digda,Diglett,Taupiqueur,ディグダ,Digda,디그다,Digeuda,Boden[Anm. 13],Maulwurf
+51,Digdri,Dugtrio,Triopiqueur,ダグトリオ,Dugtrio,닥트리오,Dakteurio,Boden[Anm. 14],Maulwurf
+52,Mauzi,Meowth,Miaouss,ニャース,Nyarth,나옹,Naong,Normal[Anm. 15][Anm. 16],Katze
+53,Snobilikat,Persian,Persian,ペルシアン,Persian,페르시온,Pereusion,Normal[Anm. 17],Rassekatze
+54,Enton,Psyduck,Psykokwak,コダック,Koduck,고라파덕,Gorapadeok,Wasser,Ente
+55,Entoron,Golduck,Akwakwak,ゴルダック,Golduck,골덕,Goldeok,Wasser,Ente
+56,Menki,Mankey,Ferosinge,マンキー,Mankey,망키,Mangki,Kampf,Schwein/Affe
+57,Rasaff,Primeape,Colossinge,オコリザル,Okorizaru,성원숭,Seongwonsung,Kampf,Schwein/Affe
+58,Fukano,Growlithe,Caninos,ガーディ,Gardie,가디,Gadi,Feuer,Hund
+59,Arkani,Arcanine,Arcanin,ウインディ,Windie,윈디,Windi,Feuer,Legendär
+60,Quapsel,Poliwag,Ptitart,ニョロモ,Nyoromo,발챙이,Balchaengi,Wasser,Kaulquappe
+61,Quaputzi,Poliwhirl,Tetarte,ニョロゾ,Nyorozo,슈륙챙이,Suryukchaengi,Wasser,Kaulquappe
+62,Quappo,Poliwrath,Tartard,ニョロボン,Nyorobon,강챙이,Gangchaengi,Wasser / Kampf,Kaulquappe
+63,Abra,Abra,Abra,ケーシィ,Casey,캐이시,Kaeisi,Psycho,Psi
+64,Kadabra,Kadabra,Kadabra,ユンゲラー,Yungerer,윤겔라,Yun-gella,Psycho,Psi
+65,Simsala,Alakazam,Alakazam,フーディン,Foodin,후딘,Hudin,Psycho,Psi
+66,Machollo,Machop,Machoc,ワンリキー,Wanriky,알통몬,Altongmon,Kampf,Kraftprotz
+67,Maschock,Machoke,Machopeur,ゴーリキー,Goriky,근육몬,Geunyungmon,Kampf,Kraftprotz
+68,Machomei,Machamp,Mackogneur,カイリキー,Kairiky,괴력몬,Goeryeokmon,Kampf,Kraftprotz
+69,Knofensa,Bellsprout,Chetiflor,マダツボミ,Madatsubomi,모다피,Modapi,Pflanze / Gift,Blume
+70,Ultrigaria,Weepinbell,Boustiflor,ウツドン,Utsudon,우츠동,Ucheudong,Pflanze / Gift,Fliegentot
+71,Sarzenia,Victreebel,Empiflor,ウツボット,Utsubot,우츠보트,Ucheuboteu,Pflanze / Gift,Fliegentot
+72,Tentacha,Tentacool,Tentacool,メノクラゲ,Menokurage,왕눈해,Wangnunhae,Wasser / Gift,Qualle
+73,Tentoxa,Tentacruel,Tentacruel,ドククラゲ,Dokukurage,독파리,Dokpari,Wasser / Gift,Qualle
+74,Kleinstein,Geodude,Racaillou,イシツブテ,Ishitsubute,꼬마돌,Kkomadol,Gestein / Boden[Anm. 18],Gestein
+75,Georok,Graveler,Gravalanch,ゴローン,Golone,데구리,Deguri,Gestein / Boden[Anm. 19],Gestein
+76,Geowaz,Golem,Grolem,ゴローニャ,Golonya,딱구리,Ttakguri,Gestein / Boden[Anm. 20],Urgestein
+77,Ponita,Ponyta,Ponyta,ポニータ,Ponyta,포니타,Ponita,Feuer[Anm. 21],Feuerpferd
+78,Gallopa,Rapidash,Galopa,ギャロップ,Gallop,날쌩마,Nalssaengma,Feuer[Anm. 22],Feuerpferd
+79,Flegmon,Slowpoke,Ramoloss,ヤドン,Yadon,야돈,Yadon,Wasser / Psycho[Anm. 23],Schnarcher
+80,Lahmus,Slowbro,Flagadoss,ヤドラン,Yadoran,야도란,Yadoran,Wasser / Psycho[Anm. 24],Symbiose
+81,Magnetilo,Magnemite,Magneti,コイル,Coil,코일,Koil,Elektro / Stahl[Anm. 25],Magnet
+82,Magneton,Magneton,Magneton,レアコイル,Rarecoil,레어코일,Reeokoil,Elektro / Stahl[Anm. 26],Magnet
+83,Porenta,Farfetch’d,Canarticho,カモネギ,Kamonegi,파오리,Paori,Normal / Flug[Anm. 27],Wildente
+84,Dodu,Doduo,Doduo,ドードー,Dodo,두두,Dudu,Normal / Flug,Duovogel
+85,Dodri,Dodrio,Dodrio,ドードリオ,Dodorio,두트리오,Duteurio,Normal / Flug,Trivogel
+86,Jurob,Seel,Otaria,パウワウ,Pawou,쥬쥬,Jyujyu,Wasser,Seehund
+87,Jugong,Dewgong,Lamantine,ジュゴン,Jugon,쥬레곤,Jyuregon,Wasser / Eis,Seehund
+88,Sleima,Grimer,Tadmorv,ベトベター,Betbeter,질퍽이,Jilpeogi,Gift[Anm. 28],Schlamm
+89,Sleimok,Muk,Grotadmorv,ベトベトン,Betbeton,질뻐기,Jilppeogi,Gift[Anm. 29],Schlamm
+90,Muschas,Shellder,Kokiyas,シェルダー,Shellder,셀러,Selleo,Wasser,Muschel
+91,Austos,Cloyster,Crustabri,パルシェン,Parshen,파르셀,Pareusel,Wasser / Eis,Muschel
+92,Nebulak,Gastly,Fantominus,ゴース,Ghos,고오스,Gooseu,Geist / Gift,Gas
+93,Alpollo,Haunter,Spectrum,ゴースト,Ghost,고우스트,Gouseuteu,Geist / Gift,Gas
+94,Gengar,Gengar,Ectoplasma,ゲンガー,Gangar,팬텀,Paenteom,Geist / Gift,Schatten
+95,Onix,Onix,Onix,イワーク,Iwark,롱스톤,Rongseuton,Gestein / Boden,Felsnatter
+96,Traumato,Drowzee,Soporifik,スリープ,Sleepe,슬리프,Seullipeu,Psycho,Hypnose
+97,Hypno,Hypno,Hypnomade,スリーパー,Sleeper,슬리퍼,Seullipeo,Psycho,Hypnose
+98,Krabby,Krabby,Krabby,クラブ,Crab,크랩,Keuraep,Wasser,Krabbe
+99,Kingler,Kingler,Krabboss,キングラー,Kingler,킹크랩,Kingkeuraep,Wasser,Kneifer
+100,Voltobal,Voltorb,Voltorbe,ビリリダマ,Biriridama,찌리리공,Jjiririgong,Elektro,Ball
+101,Lektrobal,Electrode,Electrode,マルマイン,Marumine,붐볼,Bumbol,Elektro,Ball
+102,Owei,Exeggcute,Noeunoeuf,タマタマ,Tamatama,아라리,Arari,Pflanze / Psycho,Ei
+103,Kokowei,Exeggutor,Noadkoko,ナッシー,Nassy,나시,Nasi,Pflanze / Psycho[Anm. 30],Palmfrucht
+104,Tragosso,Cubone,Osselait,カラカラ,Karakara,탕구리,Tangguri,Boden,Einsam
+105,Knogga,Marowak,Ossatueur,ガラガラ,Garagara,텅구리,Teongguri,Boden[Anm. 31],Knochenfan
+106,Kicklee,Hitmonlee,Kicklee,サワムラー,Sawamular,시라소몬,Sirasomon,Kampf,Kicker
+107,Nockchan,Hitmonchan,Tygnon,エビワラー,Ebiwalar,홍수몬,Hongsumon,Kampf,Puncher
+108,Schlurp,Lickitung,Excelangue,ベロリンガ,Beroringa,내루미,Naerumi,Normal,Schlecker
+109,Smogon,Koffing,Smogo,ドガース,Dogars,또가스,Ttogaseu,Gift,Giftwolke
+110,Smogmog,Weezing,Smogogo,マタドガス,Matadogas,또도가스,Ttodogaseu,Gift[Anm. 32],Giftwolke
+111,Rihorn,Rhyhorn,Rhinocorne,サイホーン,Sihorn,뿔카노,Ppulkano,Boden / Gestein,Stachler
+112,Rizeros,Rhydon,Rhinoferos,サイドン,Sidon,코뿌리,Koppuri,Boden / Gestein,Bohrer
+113,Chaneira,Chansey,Leveinard,ラッキー,Lucky,럭키,Reokki,Normal,Ei
+114,Tangela,Tangela,Saquedeneu,モンジャラ,Monjara,덩쿠리,Deongguri,Pflanze,Ranke
+115,Kangama,Kangaskhan,Kangourex,ガルーラ,Garura,캥카,Kaengka,Normal,Muttertier
+116,Seeper,Horsea,Hypotrempe,タッツー,Tattu,쏘드라,Ssodeura,Wasser,Drache
+117,Seemon,Seadra,Hypocean,シードラ,Seadra,시드라,Sideura,Wasser,Drache
+118,Goldini,Goldeen,Poissirene,トサキント,Tosakinto,콘치,Konchi,Wasser,Goldfisch
+119,Golking,Seaking,Poissoroy,アズマオウ,Azumao,왕콘치,Wangkonchi,Wasser,Goldfisch
+120,Sterndu,Staryu,Stari,ヒトデマン,Hitodeman,별가사리,Byeolgasari,Wasser,Sternform
+121,Starmie,Starmie,Staross,スターミー,Starmie,아쿠스타,Akuseuta,Wasser / Psycho,Mysteriös
+122,Pantimos,Mr. Mime,M.mime,バリヤード,Barrierd,마임맨,Maimmaen,Psycho / Fee[Anm. 33][Anm. 34],Sperre
+123,Sichlor,Scyther,Insecateur,ストライク,Strike,스라크,Seurakeu,Käfer / Flug,Mantis
+124,Rossana,Jynx,Lippoutou,ルージュラ,Rougela,루주라,Rujura,Eis / Psycho,Humanotyp
+125,Elektek,Electabuzz,Electek,エレブー,Eleboo,에레브,Erebeu,Elektro,Elektro
+126,Magmar,Magmar,Magmar,ブーバー,Boober,마그마,Mageuma,Feuer,Brenner
+127,Pinsir,Pinsir,Scarabrute,カイロス,Kailios,쁘사이저,Ppeusaijeo,Käfer[Anm. 35],Kneifkäfer
+128,Tauros,Tauros,Tauros,ケンタロス,Kentauros,켄타로스,Kentaroseu,Normal,Wildbulle
+129,Karpador,Magikarp,Magicarp,コイキング,Koiking,잉어킹,Ingeoking,Wasser,Fisch
+130,Garados,Gyarados,Leviator,ギャラドス,Gyarados,갸라도스,Gyaradoseu,Wasser / Flug[Anm. 36],Grausam
+131,Lapras,Lapras,Lokhlass,ラプラス,Laplace,라프라스,Rapeuraseu,Wasser / Eis,Transport
+132,Ditto,Ditto,Metamorphe,メタモン,Metamon,메타몽,Metamong,Normal,Transform
+133,Evoli,Eevee,Evoli,イーブイ,Eievui,이브이,Ibeui,Normal,Evolution
+134,Aquana,Vaporeon,Aquali,シャワーズ,Showers,샤미드,Syamideu,Wasser,Blubblase
+135,Blitza,Jolteon,Voltali,サンダース,Thunders,쥬피썬더,Jyupisseondeo,Elektro,Blitz
+136,Flamara,Flareon,Pyroli,ブースター,Booster,부스터,Buseuteo,Feuer,Flamme
+137,Porygon,Porygon,Porygon,ポリゴン,Porygon,폴리곤,Polligon,Normal,Virtuell
+138,Amonitas,Omanyte,Amonita,オムナイト,Omnite,암나이트,Amnaiteu,Gestein / Wasser,Spirale
+139,Amoroso,Omastar,Amonistar,オムスター,Omstar,암스타,Amseuta,Gestein / Wasser,Spirale
+140,Kabuto,Kabuto,Kabuto,カブト,Kabuto,투구,Tugu,Gestein / Wasser,Schaltier
+141,Kabutops,Kabutops,Kabutops,カブトプス,Kabutops,투구푸스,Tugupuseu,Gestein / Wasser,Schaltier
+142,Aerodactyl,Aerodactyl,Ptera,プテラ,Ptera,프테라,Peutera,Gestein / Flug,Fossil
+143,Relaxo,Snorlax,Ronflex,カビゴン,Kabigon,잠만보,Jammanbo,Normal,Tagträumer
+144,Arktos,Articuno,Artikodin,フリーザー,Freezer,프리져,Peurijyeo,Eis / Flug[Anm. 37],Eis
+145,Zapdos,Zapdos,Electhor,サンダー,Thunder,썬더,Sseondeo,Elektro / Flug[Anm. 38],Elektro
+146,Lavados,Moltres,Sulfura,ファイヤー,Fire,파이어,Paieo,Feuer / Flug[Anm. 39],Flamme
+147,Dratini,Dratini,Minidraco,ミニリュウ,Miniryu,미뇽,Minyong,Drache,Drache
+148,Dragonir,Dragonair,Draco,ハクリュー,Hakuryu,신뇽,Sinnyong,Drache,Drache
+149,Dragoran,Dragonite,Dracolosse,カイリュー,Kairyu,망나뇽,Mangnanyong,Drache / Flug,Drache
+150,Mewtu,Mewtwo,Mewtwo,ミュウツー,Mewtwo,뮤츠,Myucheu,Psycho[Anm. 40],Genmutant
+151,Mew,Mew,Mew,ミュウ,Mew,뮤,Myu,Psycho,Neue Art
